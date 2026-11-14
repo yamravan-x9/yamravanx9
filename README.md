@@ -1,4 +1,5 @@
 # yamravanx9
+
 # 👋 Hi, I'm Rohit Thakur
 
 ### 💻 Software Developer | Python Developer | Tech Enthusiast
@@ -30,24 +31,6 @@ Here are some of my projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rohit-thakur-620a13257?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Rohit Thakur - Python AI Developer">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Rohit Thakur - Python AI Developer">
-</p>
-
-<br>
-
-<h2 align="center">🛠️ My Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,docker,mysql" />
-</p>
 
 
 <p align="center">
