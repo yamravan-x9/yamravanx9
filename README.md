@@ -31,6 +31,24 @@ Here are some of my projects:
 
 ---
 
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Rohit Thakur - Python AI Developer">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Rohit Thakur - Python AI Developer">
+</p>
+
+<br>
+
+<h2 align="center">🛠️ My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,docker,mysql" />
+</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode,linux,docker" />
